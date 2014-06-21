@@ -5,9 +5,15 @@
             font-family: Helvetica;
 }
 
-
+div {
+  display: block;
+  background: white;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 20px;
+}
 
 .container img {
-    width: 50%;
+    width: 100%;
     height: auto;
 }
